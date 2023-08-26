@@ -1,5 +1,5 @@
 # Non_UEFI_Clarkdale-Hackintosh
- <img align="justify" src="./img/specscatalina.png" alt="specscatalina" width="500">
+ <img align="center" src="./img/specscatalina.png" alt="specscatalina" width="500">
 ## Hardware and Supported macOS version
 
 * SMBios: `MacPro6,1`
