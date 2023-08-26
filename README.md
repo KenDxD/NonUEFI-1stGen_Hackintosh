@@ -1,5 +1,5 @@
 # Non_UEFI_Clarkdale-Hackintosh
- <img align="right" src="./img/specscatalina.png" alt="specscatalina" width="500">
+ <img align="justify" src="./img/specscatalina.png" alt="specscatalina" width="500">
 ## Hardware and Supported macOS version
 
 * SMBios: `MacPro6,1`
@@ -8,7 +8,7 @@
 |-----------------|-------------------------------------|
 | Computer        | HP Pavilion p6355d                  |
 | BIOS Version    | American Megatrends 5.15            |
-| CPU             | Intel i3 6100U 2300 MHz             |
+| CPU             | Intel i3 540 3.07 GHz               |
 | Motherboard     | MS-7613 (IONA v1.0)                 |
 | Ethernet        | Gigabit 1.0 Gbps       	        |
 | Firewire        | 400                 	        |
