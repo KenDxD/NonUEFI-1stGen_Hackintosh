@@ -4,7 +4,7 @@ This EFI is specific for any `(LGA 1156)` 1st gen Intel Core i Series (Core i3,i
 
 ## Hardware and Supported macOS version
 
-<img align="right" src="./img/specscatalina.png" alt="specscatalina" width="500">
+<img align="right" src="./img/specscatalina.png" alt="specscatalina" width="400">
 
 SMBios: `MacPro6,1`
 
